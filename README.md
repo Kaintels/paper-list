@@ -4,15 +4,15 @@
 
 ## Contents
 
-* [ECG / PPG / BCG](#ECG--PPG--BCG)
+* [ECG / PPG / BCG](#ecg--ppg--bcg)
 
-* [EEG / SSVEP](#EEG--SSVEP)
+* [EEG / SSVEP](#eeg--ssvep)
 
-* [EMG](#EMG)
+* [EMG](#emg)
 
-* [EHG](#EHG)
+* [EHG](#ehg)
 
-* [EOG](#EOG)
+* [EOG](#eog)
 
   ***
 
