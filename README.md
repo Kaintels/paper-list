@@ -25,6 +25,12 @@
 
 ### EEG / SSVEP
 
+*SSVEP*
+
+- **On the quantification of SSVEP frequency responses in human EEG in realistic BCI conditions** (2013),  R. Kus´et al. [[pdf]](<https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0077536&type=printable>)
+- **Effectiveness of Flickering Video Clips as Stimuli for SSVEP-based BCIs** (2015), B. Li [[link]](https://ieeexplore.ieee.org/abstract/document/7373134)
+- **EEG-based classification of video quality perception using steady state visual evoked potentials (SSVEPs)** (2015), L. Acqualagna et al. [[pdf]](https://iopscience.iop.org/article/10.1088/1741-2560/12/2/026012/pdf)
+
 ### EMG
 
 ### EHG
