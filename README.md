@@ -10,6 +10,7 @@
 
 ## ECG / PPG / BCG
 ### How to Extract BP's Feature 
+* Cuffless Blood Pressure Estimation Algorithms for Continuous Health-Care Monitoring (2017), Kachuee, Mohammad, et al. [[link]](https://www.ncbi.nlm.nih.gov/pubmed/27323356) 
 * Systolic blood pressure estimation using PPG and ECG during physical exercise (2016), Sun, Shaoxiong, et al. [[link]](https://www.ncbi.nlm.nih.gov/pubmed/27841157)
 
 ## EEG / SSVEP
