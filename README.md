@@ -4,6 +4,8 @@
 
 ## Contents
 
+* [Pre-Processing](#Pre-Processing)
+
 * [ECG / PPG / BCG](#ecg--ppg--bcg)
 
 * [EEG / SSVEP](#eeg--ssvep)
@@ -16,8 +18,20 @@
 
   ***
 
+### Pre-Processing
+*filtering*
+
+- **
+
+*Peak and valley detection*
+- **Adaptive threshold method for the peak detection of photoplethysmographic waveform** (2009), H. S. Shin et al.[[link]](https://www.sciencedirect.com/science/article/pii/S0010482509001826)
+
+
+
 ### ECG / PPG / BCG
+
 *How to extract the feature* 
+
 - **Cuffless Blood Pressure Estimation Algorithms for Continuous Health-Care Monitoring** (2017), M. Kachuee et al. [[link]](https://www.ncbi.nlm.nih.gov/pubmed/27323356) 
 - **Improvements in Indirect Blood Pressure Estimation via Electrocardiography and Photoplethysmography** (2016), A. Strin [[link]](<https://www.semanticscholar.org/paper/Improvements-in-Indirect-Blood-Pressure-Estimation-Stirn/2e1c8d5af3d64a790c878c4b28a3dd89f666ebe7>)
 - **Hypertension Assessment via ECG and PPG Signals: An Evaluation Using MIMIC Database** (2018), Y. Liang et al [[link]](<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163274/>)
