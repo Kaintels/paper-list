@@ -48,7 +48,7 @@
 - **Reinforcement Learning: A Survey** (1996), LP Kaelbling et al. [[pdf\]](https://arxiv.org/pdf/cs/9605103.pdf)
 - **Massively Parallel Methods for Deep Reinforcement Learning** (2015), A Nair et al. [[pdf\]](https://arxiv.org/pdf/1507.04296.pdf)
 
-
+***
 
 ## Bio Signals
 
@@ -84,7 +84,7 @@
 
 ### EOG
 
-
+***
 
 ## Genetic Algorithms
 
@@ -92,7 +92,7 @@
 
 - **Genetic algorithm and wavelet hybrid scheme for ECG signal denoising** (2010), El-Sayed A. El-Dahshan [[link]](https://link.springer.com/article/10.1007%2Fs11235-010-9286-2)
 
-
+***
 
 ## Networks and data communication
 
@@ -100,7 +100,7 @@
 
 - **End-to-End Learning From Spectrum Data: A Deep Learning Approach for Wireless Signal Identification in Spectrum Monitoring Applications** (2018), Merima Kulin et al. [[link]](https://ieeexplore.ieee.org/document/8325299)
 
-
+***
 
 ## License
 
