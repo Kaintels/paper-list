@@ -1,32 +1,65 @@
-# Biosignal Paper Study
+# Paper Review
 
-## Background
+## History
+
+* 1 Mar, 2019  : Initial commit 
+
+* 2 Jun, 2019 : Add Contents
+* 9 Oct, 2019 : Integration **RL-study** repo and New Launch **Paper Review**
+
+
 
 ## Contents
 
-* [Pre-Processing](#Pre-Processing)
+* Advanced Machine Learning
 
-* [ECG / PPG / BCG](#ecg--ppg--bcg)
+  * [Methods](#Methods)
+  * [Reinforcement Learning](#Reinforcement-Learning)
 
-* [EEG / SSVEP](#eeg--ssvep)
+* Bio signals
 
-* [EMG](#emg)
+  * [Pre-Processing](#Pre-Processing)
+  * [ECG / PPG / BCG](#ecg--ppg--bcg)
+  * [EEG / SSVEP](#eeg--ssvep)
+  * [EMG](#emg)
+  * [EHG](#ehg)
+  * [EOG](#eog)
+  
+* Genetic Algorithms
 
-* [EHG](#ehg)
+  * [Parameter optimization](#Parameter-optimization)
 
-* [EOG](#eog)
+* Networks and data communication
 
+  * [Modulation and interference identification](#Modulation-and-interference-identification)
+  
   ***
 
+
+
+## Advanced Machine Learning
+
+### Methods
+
+- **Spatial Transformer Networks** (2016), Max Jaderberg et al. [[pdf]](https://arxiv.org/pdf/1506.02025.pdf)
+
+### Reinforcement Learning
+
+- **Reinforcement Learning: A Survey** (1996), LP Kaelbling et al. [[pdf\]](https://arxiv.org/pdf/cs/9605103.pdf)
+- **Massively Parallel Methods for Deep Reinforcement Learning** (2015), A Nair et al. [[pdf\]](https://arxiv.org/pdf/1507.04296.pdf)
+
+
+
+## Bio Signals
+
 ### Pre-Processing
+
 *filtering*
 
 - **
 
 *Peak and valley detection*
 - **Adaptive threshold method for the peak detection of photoplethysmographic waveform** (2009), H. S. Shin et al.[[link]](https://www.sciencedirect.com/science/article/pii/S0010482509001826)
-
-
 
 ### ECG / PPG / BCG
 
@@ -50,6 +83,24 @@
 ### EHG
 
 ### EOG
+
+
+
+## Genetic Algorithms
+
+### Parameter optimization
+
+- **Genetic algorithm and wavelet hybrid scheme for ECG signal denoising** (2010), El-Sayed A. El-Dahshan [[link]](https://link.springer.com/article/10.1007%2Fs11235-010-9286-2)
+
+
+
+## Networks and data communication
+
+### Modulation and interference identification
+
+- **End-to-End Learning From Spectrum Data: A Deep Learning Approach for Wireless Signal Identification in Spectrum Monitoring Applications** (2018), Merima Kulin et al. [[link]](https://ieeexplore.ieee.org/document/8325299)
+
+
 
 ## License
 
