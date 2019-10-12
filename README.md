@@ -42,6 +42,8 @@
 ### Methods
 
 - **Spatial Transformer Networks** (2016), Max Jaderberg et al. [[pdf]](https://arxiv.org/pdf/1506.02025.pdf)
+- **Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks** (2017),  L Mescheder et al. [[pdf]]( https://arxiv.org/pdf/1701.04722.pdf )
+- **Auto-Encoding Variational Bayes** (2014),  DP Kingma, M Welling  [[pdf]]( https://arxiv.org/pdf/1312.6114.pdf )
 
 ### Reinforcement Learning
 
