@@ -13,7 +13,8 @@
 
 * Advanced Machine Learning
 
-  * [Methods](#Methods)
+  * [Advanced Methods](#Advanced-Methods)
+  * [Generative model and Auto Encoder](#Generative-model-and-Auto-Encoder)
   * [Reinforcement Learning](#Reinforcement-Learning)
 
 * Bio signals
@@ -29,9 +30,10 @@
 
   * [Parameter optimization](#Parameter-optimization)
 
-* Networks and data communication
+* Networks and communication
 
   * [Modulation and interference identification](#Modulation-and-interference-identification)
+  * [Prediction of Traffic Flow](#Prediction-of-Traffic-Flow)
   
   ***
 
@@ -39,11 +41,15 @@
 
 ## Advanced Machine Learning
 
-### Methods
+### Advanced Methods
 
 - **Spatial Transformer Networks** (2016), Max Jaderberg et al. [[pdf]](https://arxiv.org/pdf/1506.02025.pdf)
+
+### Generative model and Auto Encoder
+
 - **Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks** (2017),  L Mescheder et al. [[pdf]]( https://arxiv.org/pdf/1701.04722.pdf )
 - **Auto-Encoding Variational Bayes** (2014),  DP Kingma, M Welling  [[pdf]]( https://arxiv.org/pdf/1312.6114.pdf )
+- **Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery** (2017), Thomas Schlegl et al. [[pdf]](https://arxiv.org/pdf/1703.05921.pdf )
 
 ### Reinforcement Learning
 
@@ -96,11 +102,16 @@
 
 ***
 
-## Networks and data communication
+## Networks and communication
 
 ### Modulation and interference identification
 
 - **End-to-End Learning From Spectrum Data: A Deep Learning Approach for Wireless Signal Identification in Spectrum Monitoring Applications** (2018), Merima Kulin et al. [[link]](https://ieeexplore.ieee.org/document/8325299)
+- **Digital signal modulation classification with data augmentation using generative adversarial nets in cognitive radio networks** (2018), Bin Tang et al. [[link]](https://ieeexplore.ieee.org/abstract/document/8319926 )
+
+### Prediction of Traffic Flow
+
+- **Improving Traffic Flow Prediction With Weather Information in Connected Cars: A Deep Learning Approach** (2016), Arief Koesdwiady et al. [[link]](https://ieeexplore.ieee.org/document/7501574)
 
 ***
 
