@@ -48,6 +48,7 @@
 
 ### Generative model and Auto Encoder
 
+- **Generative Adversarial Nets** (2014),  I Goodfellow et al. [[pdf]](https://arxiv.org/pdf/1406.2661.pdf )
 - **Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks** (2017),  L Mescheder et al. [[pdf]]( https://arxiv.org/pdf/1701.04722.pdf )
 - **Auto-Encoding Variational Bayes** (2014),  DP Kingma, M Welling  [[pdf]]( https://arxiv.org/pdf/1312.6114.pdf )
 - **Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery** (2017), Thomas Schlegl et al. [[pdf]](https://arxiv.org/pdf/1703.05921.pdf )
