@@ -16,6 +16,7 @@
   * [Advanced Methods](#Advanced-Methods)
   * [Generative model and Auto Encoder](#Generative-model-and-Auto-Encoder)
   * [Reinforcement Learning](#Reinforcement-Learning)
+  * [Optimization](#Optimization)
 
 * Bio signals
 
@@ -55,6 +56,10 @@
 
 - **Reinforcement Learning: A Survey** (1996), LP Kaelbling et al. [[pdf\]](https://arxiv.org/pdf/cs/9605103.pdf)
 - **Massively Parallel Methods for Deep Reinforcement Learning** (2015), A Nair et al. [[pdf\]](https://arxiv.org/pdf/1507.04296.pdf)
+
+### Optimization
+
+-  **Practical Bayesian Optimization of Machine Learning Algorithms** (2012), J Snoek et al. [[pdf]](http://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf )
 
 ***
 
