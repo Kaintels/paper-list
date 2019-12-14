@@ -8,7 +8,7 @@
 
 * Ⅰ. [Introduction](#Introduction)
 * Ⅱ. [Characteristic use cases for End-to-End learning from spectrum data](#Characteristic-use-cases-for-End-to-End-learning-from-spectrum-data)
-* Ⅲ. [Data-Driven end-to-end learning for wireless signal classification](#Data-Driven end-to-end learning for wireless signal classification)
+* Ⅲ. [Data-Driven end-to-end learning for wireless signal classification](#Data-Driven-end-to-end-learning-for-wireless-signal- classification)
 * Ⅳ. [Evaluation Setup](#Evaluation-Setup)
 * Ⅴ. [Conclusion](#Conclusion)
 
