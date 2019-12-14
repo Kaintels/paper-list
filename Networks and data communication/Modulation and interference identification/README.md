@@ -52,7 +52,7 @@
 
 1. Cognitive Radio (CR)
 
-   CR network (CRN) 은 무선 환경을 인식하는 지능형 무선 통신 시스템입니다.
+   CR network (CRN) 은 무선 환경을 인식하는 지능형 무선 통신 시스템.
    
 2. Cognitive IoT
 
@@ -70,9 +70,9 @@
 
 1. Data acquisition
 
-   스펙트럼 데이터를 얻기 위해 무전기는 먼저 다양한 스펙트럼 대역에서 원시 데이터를 수집하여 환경을 감지
+   스펙트럼 데이터를 얻기 위해 무전기는 먼저 다양한 스펙트럼 대역에서 원시 데이터를 수집하여 환경을 감지.
 
-   raw data는 수신 된 무선 신호의 complex envelope를 나타내는 데이터 벡터 rk에 적층 된 n 개의 샘플로 구성된다.
+   raw data는 수신 된 무선 신호의 complex envelope를 나타내는 데이터 벡터 rk에 적층 된 n 개의 샘플로 구성.
    
 2. Data pre-processing
 
@@ -103,7 +103,7 @@
 
 <B. Wireless signal model>
 
-무선 신호 식별을위한 기계 학습 모델을 도출하기 위해서는 적절한 train 데이터가 수집되어야한다.
+무선 신호 식별을위한 기계 학습 모델을 도출하기 위해서는 적절한 train 데이터가 수집되어야 함.
 
 <C. Wireless signal representation>
 
@@ -152,3 +152,6 @@
 * 또한, 무선 통신 도메인에 대해 제시된 결과는 표시된 분류에 대한 구별되는 특성을 나타내는 올바른 표현을 결정하는 데 중요.
 * 구체적으로, medium-high SNR에 대한 변조-인식 사례에 대한 연구에서는 CNN 모델에 대해 훈련 된 A/Φ Vector 표현은 다른 2 개의 모델에서 2 % 및 10 %의 성능 향상이 있었음.
 
+## Reference
+
+https://github.com/radioML/examples/blob/master/modulation_recognition/RML2016.10a_VTCNN2_example.ipynb
