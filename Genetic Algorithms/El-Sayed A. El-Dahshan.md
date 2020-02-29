@@ -1,5 +1,7 @@
 # Title
 
+**Genetic algorithm and wavelet hybrid scheme for ECG signal denoising** (대학원 1학기 진화연산 과목 - 논문 구현)
+
 ## Contents
 
 * Ⅰ. [발표자료](#발표자료)
