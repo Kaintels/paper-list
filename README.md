@@ -3,10 +3,9 @@
 ## History
 
 * 1 Mar, 2019  : Initial commit 
-
 * 2 Jun, 2019 : Add Contents
 * 9 Oct, 2019 : Integration **RL-study** repo and New Launch **Paper Review**
-
+* 29 Feb, 2020 : Add Presentation file
 
 
 ## Contents
@@ -22,6 +21,7 @@
 
   * [Pre-Processing](#Pre-Processing)
   * [ECG / PPG / BCG](#ecg--ppg--bcg)
+  * [Arrhythmia](#arrhythmia)
   * [EEG / SSVEP](#eeg--ssvep)
   * [EMG](#emg)
   * [EHG](#ehg)
@@ -83,6 +83,16 @@
 - **Improvements in Indirect Blood Pressure Estimation via Electrocardiography and Photoplethysmography** (2016), A. Strin [[link]](<https://www.semanticscholar.org/paper/Improvements-in-Indirect-Blood-Pressure-Estimation-Stirn/2e1c8d5af3d64a790c878c4b28a3dd89f666ebe7>)
 - **Hypertension Assessment via ECG and PPG Signals: An Evaluation Using MIMIC Database** (2018), Y. Liang et al [[link]](<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6163274/>)
 - **Systolic blood pressure estimation using PPG and ECG during physical exercise** (2016), S. Sun et al. [[link]](https://www.ncbi.nlm.nih.gov/pubmed/27841157)
+
+### Arrhythmia
+- **Automatic classification of heartbeats using ECG morphology and heartbeat interval features** (2004), P. De Chazal et al. [[link]](https://ieeexplore.ieee.org/document/1306572)
+- **Heartbeat classification using disease-specific feature selection** (2014), Z. Zhang et al. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S001048251300348X?via%3Dihub)
+- **Real-time patient-specific ECG classification by 1-D convolutional neural networks** (2015), S. Kiranyaz et al. [[link]](https://ieeexplore.ieee.org/document/7202837)
+- **ECG arrhythmia classification using a 2-d convolutional neural network** (2018), T. J. Jun et al. [[pdf]](https://arxiv.org/pdf/1804.06812.pdf)
+- **A robust deep convolutional neural network with batch-weighted loss for heartbeat classification** (2019), A. Sellami et al. [[link]](https://www.sciencedirect.com/science/article/abs/pii/S0957417418308054?via%3Dihub)
+- **Classification of ECG arrhythmia using recurrent neural networks** (2018), S. Shraddha et al. [[link]](https://www.sciencedirect.com/science/article/pii/S1877050918307774?via%3Dihub)
+- **ECG-based heartbeat classification for arrhythmia detection: A survey** (2016), E. J. S. Luz et al. [[link]](https://www.sciencedirect.com/science/article/pii/S0169260715003314?via%3Dihub)
+
 
 ### EEG / SSVEP
 
