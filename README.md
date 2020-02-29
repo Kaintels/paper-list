@@ -114,7 +114,7 @@
 
 ### Parameter optimization
 
-- **Genetic algorithm and wavelet hybrid scheme for ECG signal denoising** (2010), El-Sayed A. El-Dahshan [[link]](https://link.springer.com/article/10.1007%2Fs11235-010-9286-2) ([발표자료])(https://github.com/Kaintels/paper-review/blob/master/Genetic%20Algorithms/El-Sayed%20A.%20El-Dahshan.md)
+- **Genetic algorithm and wavelet hybrid scheme for ECG signal denoising** (2010), El-Sayed A. El-Dahshan [[link]](https://link.springer.com/article/10.1007%2Fs11235-010-9286-2) [[발표자료]](https://github.com/Kaintels/paper-review/blob/master/Genetic%20Algorithms/El-Sayed%20A.%20El-Dahshan.md)
 
 ***
 
@@ -122,7 +122,7 @@
 
 ### Modulation and interference identification
 
-- **End-to-End Learning From Spectrum Data: A Deep Learning Approach for Wireless Signal Identification in Spectrum Monitoring Applications** (2018), Merima Kulin et al. [[link]](https://ieeexplore.ieee.org/document/8325299) ([발표자료)(https://github.com/Kaintels/paper-review/blob/master/Networks%20and%20data%20communication/Modulation%20and%20interference%20identification/Merima%20Kulin%20et%20al..md)
+- **End-to-End Learning From Spectrum Data: A Deep Learning Approach for Wireless Signal Identification in Spectrum Monitoring Applications** (2018), Merima Kulin et al. [[link]](https://ieeexplore.ieee.org/document/8325299) [[발표자료]](https://github.com/Kaintels/paper-review/blob/master/Networks%20and%20data%20communication/Modulation%20and%20interference%20identification/Merima%20Kulin%20et%20al..md)
 
 - **Digital signal modulation classification with data augmentation using generative adversarial nets in cognitive radio networks** (2018), Bin Tang et al. [[link]](https://ieeexplore.ieee.org/abstract/document/8319926 )
 
