@@ -1,6 +1,6 @@
 # Title
 
-**End-to-End Learning From Spectrum Data: A Deep Learning Approach for Wireless Signal Identification in Spectrum Monitoring Applications**
+**End-to-End Learning From Spectrum Data: A Deep Learning Approach for Wireless Signal Identification in Spectrum Monitoring Applications** (대학원 2학기 유비쿼터스네트워크 과목 - 논문 구현)
 
 
 
@@ -11,6 +11,7 @@
 * Ⅲ. [Data-Driven end-to-end learning for wireless signal classification](#Data-Driven-end-to-end-learning-for-wireless-signal-classification)
 * Ⅳ. [Evaluation Setup](#Evaluation-Setup)
 * Ⅴ. [Conclusion](#Conclusion)
+* [발표자료](#발표자료)
 
 
 
@@ -151,6 +152,27 @@
 * 제시된 방법론은 두 개의 활성 무선 신호 식별 연구 문제에서 검증
 * 또한, 무선 통신 도메인에 대해 제시된 결과는 표시된 분류에 대한 구별되는 특성을 나타내는 올바른 표현을 결정하는 데 중요.
 * 구체적으로, medium-high SNR에 대한 변조-인식 사례에 대한 연구에서는 CNN 모델에 대해 훈련 된 A/Φ Vector 표현은 다른 2 개의 모델에서 2 % 및 10 %의 성능 향상이 있었음.
+
+## 발표자료
+
+![image](https://user-images.githubusercontent.com/38157496/75612184-969dc280-5b64-11ea-95f9-25b9c868eb5a.png)
+![image](https://user-images.githubusercontent.com/38157496/75612358-02ccf600-5b66-11ea-9a7b-87ade7cf90c5.png)
+![image](https://user-images.githubusercontent.com/38157496/75612197-addcb000-5b64-11ea-8add-0e14985e85c0.png)
+![image](https://user-images.githubusercontent.com/38157496/75612201-b9c87200-5b64-11ea-97f4-93048b14a112.png)
+![image](https://user-images.githubusercontent.com/38157496/75612202-c2b94380-5b64-11ea-98c2-048ce1f1e4e8.png)
+![image](https://user-images.githubusercontent.com/38157496/75612208-d6fd4080-5b64-11ea-9b96-e0b242675e61.png)
+![image](https://user-images.githubusercontent.com/38157496/75612209-dcf32180-5b64-11ea-8cef-c3804dc06d51.png)
+![image](https://user-images.githubusercontent.com/38157496/75612231-08760c00-5b65-11ea-95d1-0e4ff8dc8119.png)
+![image](https://user-images.githubusercontent.com/38157496/75612248-2b082500-5b65-11ea-9145-bfe52882ecc6.png)
+![image](https://user-images.githubusercontent.com/38157496/75612257-39564100-5b65-11ea-828b-de12feae7172.png)
+![image](https://user-images.githubusercontent.com/38157496/75612264-45420300-5b65-11ea-82c7-7d7950458c3c.png)
+![image](https://user-images.githubusercontent.com/38157496/75612299-85a18100-5b65-11ea-94db-925c4587a757.png)
+![image](https://user-images.githubusercontent.com/38157496/75612323-b1bd0200-5b65-11ea-9cd9-e452aa67e620.png)
+![image](https://user-images.githubusercontent.com/38157496/75612331-c4cfd200-5b65-11ea-8645-27f3620bdc08.png)
+![image](https://user-images.githubusercontent.com/38157496/75612333-cbf6e000-5b65-11ea-91f9-3ab7ce928655.png)
+![image](https://user-images.githubusercontent.com/38157496/75612336-d4e7b180-5b65-11ea-8ee7-365313133b29.png)
+
+
 
 ## Reference
 
