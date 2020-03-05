@@ -6,7 +6,11 @@
 * 2 Jun, 2019 : Add Contents
 * 9 Oct, 2019 : Integration **RL-study** repo and New Launch **Paper Review**
 * 29 Feb, 2020 : Add Presentation file
+* 06 Mar, 2020 : Change list (List style -> Table)
 
+## To Do
+
+- [ ] Writing 100 paper list each field
 
 ## Table of Contents
 
