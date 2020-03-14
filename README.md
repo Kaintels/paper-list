@@ -7,6 +7,7 @@
 * 9 Oct, 2019 : Integration **RL-study** repo and New Launch **Paper Review**
 * 29 Feb, 2020 : Add Presentation file
 * 06 Mar, 2020 : Change list (List style -> Table)
+* 15 Mar, 2020 : Evince contribution method
 
 ## To Do
 
@@ -40,6 +41,12 @@
   * [Modulation and interference identification](#Modulation-and-interference-identification)
   * [Prediction of Traffic Flow](#Prediction-of-Traffic-Flow)
   
+* [How to Contribution](#how-to-contribution)
+
+* [Contributors](#contributors)
+
+* [License](#license)
+ 
   ***
 
 
@@ -73,7 +80,7 @@
 ### Pre-Processing
 |Title|Link|Review|Code|
 |:---|---|:---:|:---:|
-Adaptive threshold method for the peak detection of photoplethysmographic waveform|[[link]](https://www.sciencedirect.com/science/article/pii/S0010482509001826)|-|[[code]](https://github.com/yonghanjung/PPG_Reexperiment)
+Adaptive threshold method for the peak detection of photoplethysmographic waveform|[[link]](https://www.sciencedirect.com/science/article/pii/S0010482509001826)|-|-|
 
 ### Heart signal
 |Title|Link|Review|Code|
@@ -130,8 +137,15 @@ Adaptive threshold method for the peak detection of photoplethysmographic wavefo
 
 ***
 
+## How to Contribution
+Pull requests are encouraged and always welcome!
+
+***
+## Contributors
+[![](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/images/0)](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/links/0)[![](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/images/1)](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/links/1)[![](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/images/2)](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/links/2)[![](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/images/3)](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/links/3)[![](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/images/4)](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/links/4)[![](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/images/5)](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/links/5)[![](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/images/6)](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/links/6)[![](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/images/7)](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/links/7)
+***
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, S. Han has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, Seungwoo Han (Kaintels) has waived all copyright and related or neighboring rights to this work.
