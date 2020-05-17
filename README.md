@@ -19,8 +19,7 @@
 
   * [Advanced Methods](#Advanced-Methods)
   * [Generative model and Auto Encoder](#Generative-model-and-Auto-Encoder)
-  * [Reinforcement Learning](#Reinforcement-Learning)
-  * [Optimization](#Optimization)
+  * [Reinforcement Learning and Optimization](#Reinforcement-Learning-and-Optimization)
 
 * Bio signals
 
@@ -71,6 +70,8 @@
 |Reinforcement Learning: A Survey|[[link]](https://arxiv.org/pdf/cs/9605103.pdf)|-|-|
 |Massively Parallel Methods for Deep Reinforcement Learning|[[link]](https://arxiv.org/pdf/1507.04296.pdf)|-|-|
 |Practical Bayesian Optimization of Machine Learning Algorithms|[[link]](http://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)|-|-|
+|Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization|[[link]](https://arxiv.org/pdf/1603.06560.pdf)|-|-|
+|BOHB: Robust and Efficient Hyperparameter Optimization at Scale|[[link]](https://arxiv.org/pdf/1807.01774.pdf)|-|-|
 
 ***
 
