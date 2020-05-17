@@ -25,8 +25,7 @@
 * Bio signals
 
   * [Pre-Processing](#Pre-Processing)
-  * [ECG / PPG / BCG](#ecg--ppg--bcg)
-  * [Arrhythmia](#arrhythmia)
+  * [Heart signal](#Heart-signal)
   * [EEG / SSVEP](#eeg--ssvep)
   * [EMG](#emg)
   * [EHG](#ehg)
