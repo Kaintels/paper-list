@@ -18,18 +18,22 @@
 * Advanced Machine Learning
 
   * [Advanced Methods](#Advanced-Methods)
-  * [Generative model and Auto Encoder](#Generative-model-and-Auto-Encoder)
-  * [Reinforcement Learning and Optimization](#Reinforcement-Learning-and-Optimization)
+  * [Generative model / Auto Encoder](#Generative-model-and-Auto-Encoder)
+  * [Reinforcement Learning / Optimization](#Reinforcement-Learning-and-Optimization)
 
-* Bio signals
+* Biomedical Engineering
 
   * [Pre-Processing](#Pre-Processing)
   * [Heart signal](#Heart-signal)
-  * [EEG / SSVEP](#eeg--ssvep)
+  * [EEG / SSVEP](#eeg-ssvep)
   * [EMG](#emg)
   * [EHG](#ehg)
   * [EOG](#eog)
-  
+  * [MEG / MCG](#meg-mcg)
+  * [Phonetics](#phonetics)
+  * [CT / MRI / fMRI](#ct-mri-fmri)
+ 
+ 
 * Genetic Algorithms
 
   * [Parameter optimization](#Parameter-optimization)
@@ -56,7 +60,7 @@
 |:---|---|:---:|:---:|
 |Spatial Transformer Networks|[[link]](https://arxiv.org/pdf/1506.02025.pdf)|-|-|
 
-### Generative model and Auto Encoder
+### Generative model / Auto Encoder
 |Title|Link|Review|Code|
 |:---|---|:---:|:---:|
 |Generative Adversarial Nets|[[link]](https://arxiv.org/pdf/1406.2661.pdf)|-|-|
@@ -64,7 +68,7 @@
 |Auto-Encoding Variational Bayes|[[link]](https://arxiv.org/pdf/1312.6114.pdf)|-|-|
 |Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery|[[link]](https://arxiv.org/pdf/1703.05921.pdf)|-|-|
 
-### Reinforcement Learning and Optimization
+### Reinforcement Learning / Optimization
 |Title|Link|Review|Code|
 |:---|---|:---:|:---:|
 |Reinforcement Learning: A Survey|[[link]](https://arxiv.org/pdf/cs/9605103.pdf)|-|-|
@@ -75,7 +79,7 @@
 
 ***
 
-## Bio Signals
+## Biomedical Engineering
 
 ### Pre-Processing
 |Title|Link|Review|Code|
@@ -110,6 +114,12 @@ Adaptive threshold method for the peak detection of photoplethysmographic wavefo
 ### EHG
 
 ### EOG
+
+### MEG / MCG
+
+### Phonetics
+
+### CT / MRI / fMRI
 
 ***
 
