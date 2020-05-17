@@ -18,20 +18,20 @@
 * Advanced Machine Learning
 
   * [Advanced Methods](#Advanced-Methods)
-  * [Generative model / Auto Encoder](#Generative-model-and-Auto-Encoder)
-  * [Reinforcement Learning / Optimization](#Reinforcement-Learning-and-Optimization)
+  * [Generative model / Auto Encoder](#Generative-model--Auto-Encoder)
+  * [Reinforcement Learning / Optimization](#Reinforcement-Learning--Optimization)
 
 * Biomedical Engineering
 
   * [Pre-Processing](#Pre-Processing)
   * [Heart signal](#Heart-signal)
-  * [EEG / SSVEP](#eeg-ssvep)
+  * [EEG / SSVEP](#eeg--ssvep)
   * [EMG](#emg)
   * [EHG](#ehg)
   * [EOG](#eog)
-  * [MEG / MCG](#meg-mcg)
+  * [MEG / MCG](#meg--mcg)
   * [Phonetics](#phonetics)
-  * [CT / MRI / fMRI](#ct-mri-fmri)
+  * [CT / MRI / fMRI](#ct--mri--fmri)
  
  
 * Genetic Algorithms
