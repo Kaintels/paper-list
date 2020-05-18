@@ -18,6 +18,7 @@
 * Advanced Machine Learning
 
   * [Advanced Methods](#Advanced-Methods)
+  * [Graph Neural Network](#Graph-Neural-Networks)
   * [Generative model / Auto Encoder](#Generative-model--Auto-Encoder)
   * [Reinforcement Learning / Optimization](#Reinforcement-Learning--Optimization)
 
@@ -59,6 +60,8 @@
 |Title|Link|Review|Code|
 |:---|---|:---:|:---:|
 |Spatial Transformer Networks|[[link]](https://arxiv.org/pdf/1506.02025.pdf)|-|-|
+
+### Graph Neural Network
 
 ### Generative model / Auto Encoder
 |Title|Link|Review|Code|
