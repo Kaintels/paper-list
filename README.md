@@ -18,7 +18,7 @@
 * Advanced Machine Learning
 
   * [Advanced Methods](#Advanced-Methods)
-  * [Graph Neural Network](#Graph-Neural-Networks)
+  * [Graph Neural Network](#Graph-Neural-Network)
   * [Generative model / Auto Encoder](#Generative-model--Auto-Encoder)
   * [Reinforcement Learning / Optimization](#Reinforcement-Learning--Optimization)
 
