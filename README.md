@@ -39,7 +39,7 @@
 
   * [Parameter optimization](#Parameter-optimization)
 
-* Networks and communication
+* Wireless Networks and communication
 
   * [Modulation and interference identification](#Modulation-and-interference-identification)
   * [Prediction of Traffic Flow](#Prediction-of-Traffic-Flow)
@@ -135,7 +135,7 @@ Adaptive threshold method for the peak detection of photoplethysmographic wavefo
 
 ***
 
-## Networks and communication
+## Wireless Networks and communication
 
 ### Modulation and interference identification
 |Title|Link|Review|Code|
