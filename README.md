@@ -25,7 +25,7 @@
 * Biomedical Engineering
 
   * [Pre-Processing](#Pre-Processing)
-  * [Heart signal](#Heart-signal)
+  * [Heart Signals](#Heart-signals)
   * [EEG / SSVEP](#eeg--ssvep)
   * [EMG](#emg)
   * [EHG](#ehg)
@@ -91,7 +91,7 @@
 |:---|---|:---:|:---:|
 Adaptive threshold method for the peak detection of photoplethysmographic waveform|[[link]](https://www.sciencedirect.com/science/article/pii/S0010482509001826)|-|-|
 
-### Heart signal
+### Heart Signals
 |Title|Link|Review|Code|
 |:---|---|:---:|:---:|
   Cuffless Blood Pressure Estimation Algorithms for Continuous Health-Care Monitoring|[[link]](https://www.ncbi.nlm.nih.gov/pubmed/27323356) |-|-| 
