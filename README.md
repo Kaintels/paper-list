@@ -44,6 +44,8 @@
   * [Modulation and interference identification](#Modulation-and-interference-identification)
   * [Prediction of Traffic Flow](#Prediction-of-Traffic-Flow)
   
+* Image Classification
+
 * [How to Contribution](#how-to-contribution)
 
 * [Contributors](#contributors)
@@ -103,7 +105,7 @@ Adaptive threshold method for the peak detection of photoplethysmographic wavefo
 |A robust deep convolutional neural network with batch-weighted loss for heartbeat classification|[[link]](https://www.sciencedirect.com/science/article/abs/pii/S0957417418308054?via%3Dihub)|-|-|
 |Classification of ECG arrhythmia using recurrent neural networks|[[link]](https://www.sciencedirect.com/science/article/pii/S1877050918307774?via%3Dihub)|-|-|
 |ECG-based heartbeat classification for arrhythmia detection: A survey|[[link]](https://www.sciencedirect.com/science/article/pii/S0169260715003314?via%3Dihub)|-|-|
-
+|ECG arrhythmia classification using STFT-based spectrogram and convolutional neural network|[[link]](https://ieeexplore.ieee.org/abstract/document/8759878)|-|-|
 
 ### EEG / SSVEP
 |Title|Link|Review|Code|
@@ -147,6 +149,8 @@ Adaptive threshold method for the peak detection of photoplethysmographic wavefo
 |Title|Link|Review|Code|
 |:---|---|:---:|:---:|
 |Improving Traffic Flow Prediction With Weather Information in Connected Cars: A Deep Learning Approach|[[link]](https://ieeexplore.ieee.org/document/7501574)|-|-|
+
+## Image Classification
 
 ***
 
