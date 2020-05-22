@@ -31,7 +31,7 @@
   * [EHG](#ehg)
   * [EOG](#eog)
   * [MEG / MCG](#meg--mcg)
-  * [Phonetics](#phonetics)
+  * [Phonetics / Speech](#phonetics--speech)
   * [CT / MRI / fMRI](#ct--mri--fmri)
  
  
@@ -122,7 +122,7 @@ Adaptive threshold method for the peak detection of photoplethysmographic wavefo
 
 ### MEG / MCG
 
-### Phonetics
+### Phonetics / Speech
 
 ### CT / MRI / fMRI
 
