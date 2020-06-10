@@ -72,6 +72,7 @@
 |Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks|[[link]](https://arxiv.org/pdf/1701.04722.pdf)|-|-|
 |Auto-Encoding Variational Bayes|[[link]](https://arxiv.org/pdf/1312.6114.pdf)|-|-|
 |Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery|[[link]](https://arxiv.org/pdf/1703.05921.pdf)|-|-|
+|Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks|[[link]](https://arxiv.org/abs/1511.06434)|-|-|
 
 ### Reinforcement Learning / Optimization
 |Title|Link|Review|Code|
