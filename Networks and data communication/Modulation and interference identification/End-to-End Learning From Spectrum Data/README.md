@@ -1,6 +1,6 @@
 # Title
 
-**End-to-End Learning From Spectrum Data: A Deep Learning Approach for Wireless Signal Identification in Spectrum Monitoring Applications** (대학원 2학기 유비쿼터스네트워크 과목 - 논문 구현) [[code]](https://github.com/Kaintels/paper-review/blob/master/Networks%20and%20data%20communication/Modulation%20and%20interference%20identification/Merima%20Kulin%20et%20al..ipynb)
+**End-to-End Learning From Spectrum Data: A Deep Learning Approach for Wireless Signal Identification in Spectrum Monitoring Applications** (대학원 2학기 유비쿼터스네트워크 과목 - 논문 구현)
 
 
 
