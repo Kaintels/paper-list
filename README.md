@@ -143,7 +143,7 @@ Adaptive threshold method for the peak detection of photoplethysmographic wavefo
 ### Modulation and interference identification
 |Title|Link|Review|Code|
 |:---|---|:---:|:---:|
-|End-to-End Learning From Spectrum Data: A Deep Learning Approach for Wireless Signal Identification in Spectrum Monitoring Applications|[[link]](https://ieeexplore.ieee.org/document/8325299)|[[slides]](https://github.com/Kaintels/paper-review/blob/master/Networks%20and%20data%20communication/Modulation%20and%20interference%20identification/Merima%20Kulin%20et%20al..md)|[[code]](https://github.com/Kaintels/paper-review/blob/master/Networks%20and%20data%20communication/Modulation%20and%20interference%20identification/Merima%20Kulin%20et%20al..ipynb)
+|End-to-End Learning From Spectrum Data: A Deep Learning Approach for Wireless Signal Identification in Spectrum Monitoring Applications|[[link]](https://ieeexplore.ieee.org/document/8325299)|[[slides]](https://github.com/Kaintels/paper-review/tree/master/Networks%20and%20data%20communication/Modulation%20and%20interference%20identification/End-to-End%20Learning%20From%20Spectrum%20Data)|[[code]](https://github.com/Kaintels/paper-review/blob/master/Networks%20and%20data%20communication/Modulation%20and%20interference%20identification/End-to-End%20Learning%20From%20Spectrum%20Data/main.ipynb)
 |Digital signal modulation classification with data augmentation using generative adversarial nets in cognitive radio networks|[[link]](https://ieeexplore.ieee.org/abstract/document/8319926)|-|-|
 
 ### Prediction of Traffic Flow
