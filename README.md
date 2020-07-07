@@ -1,6 +1,6 @@
 # Paper Review
 
-## History
+## Major History
 
 * 1 Mar, 2019  : Initial commit 
 * 2 Jun, 2019 : Add Contents
@@ -35,7 +35,7 @@
   * [CT / MRI / fMRI](#ct--mri--fmri)
  
  
-* Genetic Algorithms
+* Genetic Algorithms and Gaussian Process
 
   * [Parameter optimization](#Parameter-optimization)
 
@@ -129,12 +129,13 @@ Adaptive threshold method for the peak detection of photoplethysmographic wavefo
 
 ***
 
-## Genetic Algorithms
+## Genetic Algorithms and Gaussian Process
 
 ### Parameter optimization
 |Title|Link|Review|Code|
 |:---|---|:---:|:---:|
 |Genetic algorithm and wavelet hybrid scheme for ECG signal denoising|[[link]](https://link.springer.com/article/10.1007%2Fs11235-010-9286-2)|[[slides]](https://github.com/Kaintels/paper-review/blob/master/Genetic%20Algorithms/El-Sayed%20A.%20El-Dahshan.md)|-|
+|Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization|[[link]](http://jmlr.org/papers/volume18/16-558/16-558.pdf)|-|-|
 
 ***
 
