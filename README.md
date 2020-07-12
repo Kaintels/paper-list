@@ -20,7 +20,7 @@
   * [Advanced Methods](#Advanced-Methods)
   * [Graph Neural Network](#Graph-Neural-Network)
   * [Generative model / Auto Encoder](#Generative-model--Auto-Encoder)
-  * [Reinforcement Learning / Optimization](#Reinforcement-Learning--Optimization)
+  * [Reinforcement Learning / Optimization / Genetic Algorithms](#Reinforcement-Learning--Optimization--Genetic-Algorithms)
 
 * Biomedical Engineering
 
@@ -33,12 +33,7 @@
   * [MEG / MCG](#meg--mcg)
   * [Phonetics / Speech](#phonetics--speech)
   * [CT / MRI / fMRI](#ct--mri--fmri)
- 
- 
-* Genetic Algorithms and Gaussian Process
-
-  * [Parameter optimization](#Parameter-optimization)
-
+  
 * Wireless Networks and communication
 
   * [Modulation and interference identification](#Modulation-and-interference-identification)
@@ -74,10 +69,11 @@
 |Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery|[[link]](https://arxiv.org/pdf/1703.05921.pdf)|-|-|
 |Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks|[[link]](https://arxiv.org/abs/1511.06434)|-|-|
 
-### Reinforcement Learning / Optimization
+### Reinforcement Learning / Optimization / Genetic Algorithms
 |Title|Link|Review|Code|
 |:---|---|:---:|:---:|
 |Reinforcement Learning: A Survey|[[link]](https://arxiv.org/pdf/cs/9605103.pdf)|-|-|
+|Genetic algorithm and wavelet hybrid scheme for ECG signal denoising|[[link]](https://link.springer.com/article/10.1007%2Fs11235-010-9286-2)|[[slides]](https://github.com/Kaintels/paper-review/blob/master/Genetic%20Algorithms/El-Sayed%20A.%20El-Dahshan.md)|-|
 |Massively Parallel Methods for Deep Reinforcement Learning|[[link]](https://arxiv.org/pdf/1507.04296.pdf)|-|-|
 |Practical Bayesian Optimization of Machine Learning Algorithms|[[link]](http://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)|-|-|
 |Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization|[[link]](https://arxiv.org/pdf/1603.06560.pdf)|-|-|
@@ -126,16 +122,6 @@ Adaptive threshold method for the peak detection of photoplethysmographic wavefo
 ### Phonetics / Speech
 
 ### CT / MRI / fMRI
-
-***
-
-## Genetic Algorithms and Gaussian Process
-
-### Parameter optimization
-|Title|Link|Review|Code|
-|:---|---|:---:|:---:|
-|Genetic algorithm and wavelet hybrid scheme for ECG signal denoising|[[link]](https://link.springer.com/article/10.1007%2Fs11235-010-9286-2)|[[slides]](https://github.com/Kaintels/paper-review/blob/master/Genetic%20Algorithms/El-Sayed%20A.%20El-Dahshan.md)|-|
-|Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization|[[link]](http://jmlr.org/papers/volume18/16-558/16-558.pdf)|-|-|
 
 ***
 
