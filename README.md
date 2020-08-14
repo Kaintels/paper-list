@@ -16,7 +16,7 @@
 
 ## To Do
 
-- [ ] Writing 100 paper list each field
+- [ ] 각 분야에서 100개의 논문 리
 
 ## Table of Contents
 
@@ -148,7 +148,7 @@ Adaptive threshold method for the peak detection of photoplethysmographic wavefo
 ***
 
 ## How to Contribution
-- 풀 리퀘스트는 권장되며 언제든지 환영합니다. Pull requests are encouraged and always welcome!
+- 풀 리퀘스트는 권장되며 언제든지 환영합니다.
 - 다만, 논문은 링크만 첨부해주시기 바라며(arxiv는 논문 pdf가 보이는 링크 첨부가능) scihub를 통한 full paper 공개는 금지합니다.
 
 
