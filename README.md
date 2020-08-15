@@ -10,7 +10,7 @@
 * 29 Feb. 2020 : Add Presentation file
 * 06 Mar. 2020 : Change list (List style -> Table)
 * 15 Mar. 2020 : Evince contribution method
-* 14 Aug. 2020 : Change repo ```paper-review``` -> ```awesome-paper-review```
+* 14 Aug. 2020 : Change repo name ```paper-review``` -> ```awesome-paper-review```
 
 ## Introduction
 자신이 읽은 논문을 자유롭게 리뷰하는 Awesome repo를 만들어보았습니다. [GITHUB Awesome 검색](https://github.com/search?p=3&q=awesome&type=Repositories)
