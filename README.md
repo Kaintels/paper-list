@@ -2,6 +2,12 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+<div align=center>
+<a href="https://github.com/Kaintels/awesome-paper-review/graphs/contributors"><img src="https://contributors-img.web.app/image?repo=Kaintels/awesome-paper-review"/</a>
+</div>
+
+Made with [contributors-img](https://contributors-img.web.app).
+
 ## Major History
 
 * 1 Mar. 2019  : Initial commit 
