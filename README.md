@@ -2,12 +2,6 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<div align=center>
-<a href="https://github.com/Kaintels/awesome-paper-review/graphs/contributors"><img src="https://contributors-img.web.app/image?repo=Kaintels/awesome-paper-review"/</a>
-</div>
-
-Made with [contributors-img](https://contributors-img.web.app).
-
 ## Major History
 
 * 1 Mar. 2019  : Initial commit 
@@ -162,10 +156,16 @@ Adaptive threshold method for the peak detection of photoplethysmographic wavefo
 - 논문의 내용 구현은 선택이며, 저자가 예제를 보여준 경우 예제를 링크하셔도 됩니다. 
 
 
-***
 ## Contributors
-[![](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/images/0)](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/links/0)[![](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/images/1)](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/links/1)[![](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/images/2)](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/links/2)[![](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/images/3)](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/links/3)[![](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/images/4)](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/links/4)[![](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/images/5)](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/links/5)[![](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/images/6)](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/links/6)[![](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/images/7)](https://sourcerer.io/fame/Kaintels/Kaintels/paper-review/links/7)
+
+<a href="https://github.com/Kaintels/awesome-paper-review/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=Kaintels/awesome-paper-review" />
+</a>
+
+Made with [contributors-img](https://contributors-img.web.app).
+
 ***
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
