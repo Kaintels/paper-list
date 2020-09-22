@@ -83,6 +83,7 @@
 |Reinforcement Learning: A Survey|[[link]](https://arxiv.org/pdf/cs/9605103.pdf)|-|-|
 |Genetic algorithm and wavelet hybrid scheme for ECG signal denoising|[[link]](https://link.springer.com/article/10.1007%2Fs11235-010-9286-2)|[[slides]](https://github.com/Kaintels/paper-review/blob/master/Genetic%20Algorithms/El-Sayed%20A.%20El-Dahshan.md)|-|
 |Massively Parallel Methods for Deep Reinforcement Learning|[[link]](https://arxiv.org/pdf/1507.04296.pdf)|-|-|
+|Classification with Costly Features using Deep Reinforcement Learning|[[link]](https://jaromiru.com/media/about/aaai19_cwcf_paper.pdf)|-|[[link]](https://github.com/Kaintels/classification-with-costly-features)|
 |Practical Bayesian Optimization of Machine Learning Algorithms|[[link]](http://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)|-|-|
 |Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization|[[link]](https://arxiv.org/pdf/1603.06560.pdf)|-|-|
 |BOHB: Robust and Efficient Hyperparameter Optimization at Scale|[[link]](https://arxiv.org/pdf/1807.01774.pdf)|-|-|
