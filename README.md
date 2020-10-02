@@ -1,20 +1,4 @@
-# Paper Review
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-## Major History
-
-* 1 Mar. 2019  : Initial commit 
-* 2 Jun. 2019 : Add Contents
-* 9 Oct. 2019 : Integration ```RL-study``` repo and New Launch ```Paper Review```
-* 29 Feb. 2020 : Add Presentation file
-* 06 Mar. 2020 : Change list (List style -> Table)
-* 15 Mar. 2020 : Evince contribution method
-* 14 Aug. 2020 : Change repo name ```paper-review``` -> ```awesome-paper-review```
-
-## Introduction
-자신이 읽은 논문을 자유롭게 리뷰하는 Awesome repo를 만들어보았습니다. [GITHUB Awesome 검색](https://github.com/search?p=3&q=awesome&type=Repositories)
-
+# Paper list
 
 ## To Do
 
@@ -150,25 +134,3 @@ Adaptive threshold method for the peak detection of photoplethysmographic wavefo
 ## Image Classification
 
 ***
-
-## How to Contribution
-- 풀 리퀘스트는 권장되며 언제든지 환영합니다.
-- 다만, 논문은 링크만 첨부해주시기 바라며(arxiv는 논문 pdf가 보이는 링크 첨부가능) scihub를 통한 full paper 공개는 금지합니다.
-- 논문의 내용 구현은 선택이며, 저자가 예제를 보여준 경우 예제를 링크하셔도 됩니다. 
-
-
-## Contributors
-
-<a href="https://github.com/Kaintels/awesome-paper-review/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=Kaintels/awesome-paper-review" />
-</a>
-
-Made with [contributors-img](https://contributors-img.web.app).
-
-***
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, Seungwoo Han (Kaintels) has waived all copyright and related or neighboring rights to this work.
