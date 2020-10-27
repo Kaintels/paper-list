@@ -49,6 +49,7 @@
 |Title|Link|Review|Code|
 |:---|---|:---:|:---:|
 |Spatial Transformer Networks|[[link]](https://arxiv.org/pdf/1506.02025.pdf)|-|-|
+|Learning Loss for Active Learning|[[link]](https://arxiv.org/abs/1905.03677.pdf)|-|-|
 
 ### Graph Neural Network
 
