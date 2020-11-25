@@ -13,7 +13,7 @@
   * [Graph Neural Network](#Graph-Neural-Network)
   * [Generative model / Auto Encoder](#Generative-model--Auto-Encoder)
   * [Reinforcement Learning / Optimization / Genetic Algorithms](#Reinforcement-Learning--Optimization--Genetic-Algorithms)
-  * [Feature selection](#-Feature-selection)
+  * [Feature selection](#Feature-selection)
 
 * Biomedical Engineering
 
