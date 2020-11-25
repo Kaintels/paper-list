@@ -13,6 +13,7 @@
   * [Graph Neural Network](#Graph-Neural-Network)
   * [Generative model / Auto Encoder](#Generative-model--Auto-Encoder)
   * [Reinforcement Learning / Optimization / Genetic Algorithms](#Reinforcement-Learning--Optimization--Genetic-Algorithms)
+  * [Feature selection](#-Feature-selection)
 
 * Biomedical Engineering
 
@@ -72,6 +73,12 @@
 |Practical Bayesian Optimization of Machine Learning Algorithms|[[link]](http://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)|-|-|
 |Hyperband: A Novel Bandit-Based Approach to Hyperparameter Optimization|[[link]](https://arxiv.org/pdf/1603.06560.pdf)|-|-|
 |BOHB: Robust and Efficient Hyperparameter Optimization at Scale|[[link]](https://arxiv.org/pdf/1807.01774.pdf)|-|-|
+
+### Feature selection
+|Title|Link|Review|Code|
+|:---|---|:---:|:---:|
+|Classification with Costly Features using Deep Reinforcement Learning|[[link]](https://ojs.aaai.org//index.php/AAAI/article/view/4287)|-|[[link]](https://github.com/Kaintels/classification-with-costly-features)|
+|QBSO-FS: A Reinforcement Learning Based Bee Swarm Optimization Metaheuristic for Feature Selection|[[link]](https://link.springer.com/chapter/10.1007/978-3-030-20518-8_65)|-|[[link]](https://github.com/amineremache/qbso-fs)|
 
 ***
 
